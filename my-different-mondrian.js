@@ -1,3 +1,5 @@
+//inspired by the shapes of Mondrian, but with colors on the cooler end of the spectrum and a less grid-like pattern
+
 function setup() { 
   createCanvas(400, 400);
 } 
